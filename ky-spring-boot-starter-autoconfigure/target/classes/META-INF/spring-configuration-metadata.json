@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "ky.hello",
+      "type": "com.song.HelloProperties",
+      "sourceType": "com.song.HelloProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ky.hello.prefix",
+      "type": "java.lang.String",
+      "sourceType": "com.song.HelloProperties"
+    },
+    {
+      "name": "ky.hello.suffix",
+      "type": "java.lang.String",
+      "sourceType": "com.song.HelloProperties"
+    }
+  ],
+  "hints": []
+}

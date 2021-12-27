@@ -1,0 +1,5 @@
+com\song\HelloProperties.class
+com\song\HelloService.class
+com\song\kyspringbootstarterautoconfigure\KySpringBootStarterAutoconfigureApplication.class
+com\song\HelloServiceAutoConfiguration.class
+META-INF\spring-configuration-metadata.json
